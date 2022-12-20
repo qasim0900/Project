@@ -1,0 +1,13 @@
+body{
+    background-image: url(pic.jpg);
+    background-size: cover;
+}
+.conatiner{
+    background-color: transparent;
+}
+.f{
+    font-family: 'Courier New', Courier, monospace;
+}
+.a{
+    color:black
+}
